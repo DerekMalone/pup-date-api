@@ -1,0 +1,178 @@
+[
+    {
+        "image": {
+          "avif": "https://http.dog/100.avif",
+          "jpg": "https://http.dog/100.jpg",
+          "jxl": "https://http.dog/100.jxl",
+          "webp": "https://http.dog/100.webp"
+        },
+        "status_code": 100,
+        "title": "Continue",
+        "url": "https://http.dog/100"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/101.avif",
+          "jpg": "https://http.dog/101.jpg",
+          "jxl": "https://http.dog/101.jxl",
+          "webp": "https://http.dog/101.webp"
+        },
+        "status_code": 101,
+        "title": "Switching Protocols",
+        "url": "https://http.dog/101"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/102.avif",
+          "jpg": "https://http.dog/102.jpg",
+          "jxl": "https://http.dog/102.jxl",
+          "webp": "https://http.dog/102.webp"
+        },
+        "status_code": 102,
+        "title": "Processing",
+        "url": "https://http.dog/102"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/103.avif",
+          "jpg": "https://http.dog/103.jpg",
+          "jxl": "https://http.dog/103.jxl",
+          "webp": "https://http.dog/103.webp"
+        },
+        "status_code": 103,
+        "title": "Early Hints",
+        "url": "https://http.dog/103"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/200.avif",
+          "jpg": "https://http.dog/200.jpg",
+          "jxl": "https://http.dog/200.jxl",
+          "webp": "https://http.dog/200.webp"
+        },
+        "status_code": 200,
+        "title": "OK",
+        "url": "https://http.dog/200"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/201.avif",
+          "jpg": "https://http.dog/201.jpg",
+          "jxl": "https://http.dog/201.jxl",
+          "webp": "https://http.dog/201.webp"
+        },
+        "status_code": 201,
+        "title": "Created",
+        "url": "https://http.dog/201"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/202.avif",
+          "jpg": "https://http.dog/202.jpg",
+          "jxl": "https://http.dog/202.jxl",
+          "webp": "https://http.dog/202.webp"
+        },
+        "status_code": 202,
+        "title": "Accepted",
+        "url": "https://http.dog/202"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/203.avif",
+          "jpg": "https://http.dog/203.jpg",
+          "jxl": "https://http.dog/203.jxl",
+          "webp": "https://http.dog/203.webp"
+        },
+        "status_code": 203,
+        "title": "Non-Authoritative Information",
+        "url": "https://http.dog/203"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/204.avif",
+          "jpg": "https://http.dog/204.jpg",
+          "jxl": "https://http.dog/204.jxl",
+          "webp": "https://http.dog/204.webp"
+        },
+        "status_code": 204,
+        "title": "No Content",
+        "url": "https://http.dog/204"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/218.avif",
+          "jpg": "https://http.dog/218.jpg",
+          "jxl": "https://http.dog/218.jxl",
+          "webp": "https://http.dog/218.webp"
+        },
+        "status_code": 218,
+        "title": "This is fine",
+        "url": "https://http.dog/218"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/300.avif",
+          "jpg": "https://http.dog/300.jpg",
+          "jxl": "https://http.dog/300.jxl",
+          "webp": "https://http.dog/300.webp"
+        },
+        "status_code": 300,
+        "title": "Multiple Choices",
+        "url": "https://http.dog/300"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/301.avif",
+          "jpg": "https://http.dog/301.jpg",
+          "jxl": "https://http.dog/301.jxl",
+          "webp": "https://http.dog/301.webp"
+        },
+        "status_code": 301,
+        "title": "Moved Permanently",
+        "url": "https://http.dog/301"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/400.avif",
+          "jpg": "https://http.dog/400.jpg",
+          "jxl": "https://http.dog/400.jxl",
+          "webp": "https://http.dog/400.webp"
+        },
+        "status_code": 400,
+        "title": "Bad Request",
+        "url": "https://http.dog/400"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/402.avif",
+          "jpg": "https://http.dog/402.jpg",
+          "jxl": "https://http.dog/402.jxl",
+          "webp": "https://http.dog/402.webp"
+        },
+        "status_code": 402,
+        "title": "Payment Required",
+        "url": "https://http.dog/402"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/424.avif",
+          "jpg": "https://http.dog/424.jpg",
+          "jxl": "https://http.dog/424.jxl",
+          "webp": "https://http.dog/424.webp"
+        },
+        "status_code": 424,
+        "title": "Failed Dependency",
+        "url": "https://http.dog/424"
+      },
+      {
+        "image": {
+          "avif": "https://http.dog/429.avif",
+          "jpg": "https://http.dog/429.jpg",
+          "jxl": "https://http.dog/429.jxl",
+          "webp": "https://http.dog/429.webp"
+        },
+        "status_code": 429,
+        "title": "Too Many Requests",
+        "url": "https://http.dog/429"
+      }      
+]
